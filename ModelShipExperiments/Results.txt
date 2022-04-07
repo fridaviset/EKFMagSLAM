@@ -1,0 +1,26 @@
+Running Algorithm 1 on all four datasets from model ship
+N_m: 50, RMSE:0.095154
+Sufficient amount of basis functions for current domain size and hyperparameters is estimated to be: 50
+Dataset 1, RMSE Algorithm 1: 0.53$\pm$0.09, RMSE dead reckoning: 1.91$\pm$0.58
+RMSE PF with N_p=100 particles: 0.72$\pm$0.28
+RMSE PF with N_p=200 particles: 0.76$\pm$0.29
+RMSE PF with N_p=500 particles: 0.82$\pm$0.21
+N_m: 50, RMSE:0.076621
+Sufficient amount of basis functions for current domain size and hyperparameters is estimated to be: 50
+Dataset 2, RMSE Algorithm 1: 0.52$\pm$0.11, RMSE dead reckoning: 1.45$\pm$0.39
+RMSE PF with N_p=100 particles: 0.85$\pm$0.20
+RMSE PF with N_p=200 particles: 0.86$\pm$0.18
+RMSE PF with N_p=500 particles: 0.90$\pm$0.14
+N_m: 50, RMSE:0.17009
+N_m: 100, RMSE:0.059707
+Sufficient amount of basis functions for current domain size and hyperparameters is estimated to be: 100
+Dataset 3, RMSE Algorithm 1: 0.48$\pm$0.18, RMSE dead reckoning: 1.69$\pm$0.46
+RMSE PF with N_p=100 particles: 0.95$\pm$0.23
+RMSE PF with N_p=200 particles: 0.94$\pm$0.18
+RMSE PF with N_p=500 particles: 1.01$\pm$0.12
+N_m: 50, RMSE:0.044111
+Sufficient amount of basis functions for current domain size and hyperparameters is estimated to be: 50
+Dataset 4, RMSE Algorithm 1: 1.22$\pm$0.62, RMSE dead reckoning: 1.71$\pm$0.41
+RMSE PF with N_p=100 particles: 1.28$\pm$0.24
+RMSE PF with N_p=200 particles: 1.52$\pm$0.40
+RMSE PF with N_p=500 particles: 1.36$\pm$0.43
